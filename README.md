@@ -11,6 +11,6 @@
 * Warehouse: Azure Data Factory, Azure Databricks
 * Credentials: Azure Key Vault
 
-Solution Architecture
+# Solution Architecture
 
 ![image](Solution_Architecture.PNG)
