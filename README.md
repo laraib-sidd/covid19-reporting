@@ -13,4 +13,4 @@
 
 Solution Architecture
 
-![image](Solution_Architecture.png)
+![image](Solution_Architecture.PNG)
